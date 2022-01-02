@@ -2,7 +2,7 @@
 
 
 <h4 align="center">
-    I'm a Data scientist, Inclusion Advocate ✨
+    I'm a Data scientist ✨
 </h4>
 
 ## Get To Know Me:
