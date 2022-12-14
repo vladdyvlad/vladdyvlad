@@ -2,7 +2,7 @@
 
 
 <h4 align="center">
-    I'm a Software engineer who loves data ✨
+    I'm a Software engineer ✨
 </h4>
 
 ## Get To Know Me:
