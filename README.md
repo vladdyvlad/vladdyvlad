@@ -17,8 +17,8 @@
 ## I’m currently working on ...
 
 - Ehtical Hacking 
-- Javascript
-- iOS development 
+- Network Security & Defense 
+- 
 - 
 
 ## 
