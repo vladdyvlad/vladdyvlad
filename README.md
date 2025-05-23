@@ -24,6 +24,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
+## 💼 Portfolio
+
+- **[Other Projects](https://github.com/vladdyvlad/Portfolio/tree/main)**
+<hr/> 
+
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
